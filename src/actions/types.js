@@ -1,0 +1,6 @@
+export const GET_TRADES = 'GET_TRADES';
+export const ADD_TRADE = 'ADD_TRADE';
+export const DELETE_TRADE = 'DELETE_TRADE';
+export const GET_TRADE_PROFITS = 'GET_TRADE_PROFITS';
+export const SELECT_TRADE = 'SELECT_TRADE';
+export const GET_TICKER_PRICES = 'GET_TICKER_PRICES';

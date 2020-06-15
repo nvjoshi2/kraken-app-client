@@ -1,0 +1,12 @@
+.select-container {
+    width: 18rem;
+}
+
+.trade-adder-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.chart {
+    margin-left: 0.5rem;
+}
